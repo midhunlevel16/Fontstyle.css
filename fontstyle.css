@@ -1,0 +1,15 @@
+body{
+    background-color:black;
+}
+h1{
+    color:green;
+    font-family: "press start 2p";
+}
+p{
+    font-size: 20px;
+    font-family: "press start 2p";
+    font-display:inherit ;
+    font: 100;
+    color:green;
+
+}
